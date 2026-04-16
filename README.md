@@ -25,3 +25,6 @@ After training, the model makes predictions on the test data. The performance is
 Predictive analysis is widely used in real-world applications such as healthcare, banking, e-commerce, and education. It helps organizations make better decisions based on data.
 
 In conclusion, this project demonstrates how machine learning can be used to analyze data and predict outcomes effectively.
+
+OUTPUT:
+<img width="1063" height="741" alt="Image" src="https://github.com/user-attachments/assets/63a73f70-3a4a-4a39-a375-f5e29d5d2294" />
